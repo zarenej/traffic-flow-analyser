@@ -41,7 +41,7 @@ User interaction allows reports to be generated in full or selectively.
 
 ## Input and Output
 - Input data is read from `trafficdata.txt`
-- Output is written to a separate file, `traffic_report.txt`, to preserve the original data
+- Output is written to a separate file, `trafficReport.txt`, to preserve the original data
   and reflect real-world best practices
 
 ## Technologies
